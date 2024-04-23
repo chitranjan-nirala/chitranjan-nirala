@@ -55,17 +55,16 @@ Here are some of the technologies and tools I work with:
 ## 🚀 My Projects
 
 <!-- Showcase your projects here -->
-- [Project 1]() - Short project description.
-- [Project 2]() - Short project description.
+- [Project 1](https://github.com/chitranjan-nirala/Placement_cell-Website) -"Introducing our cutting-edge 'Placement Management System,' a web-based application revolutionizing the efficiency of campus placements within our educational institution. With secure login credentials for both students and Training and Placement Office (TPO) personnel, this system offers a comprehensive platform for seamless placement processes.
+- [Project 2](https://github.com/chitranjan-nirala/resturant-app) - 🍋 Welcome to My Little Lemon Indian Restaurant! 🍋 Indulge in the vibrant flavors of India at My Little Lemon, where authentic Indian cuisine meets modern innovation. Our restaurant is a true homage to the rich culinary heritage of India, carefully curated to offer you an unforgettable dining experience.
 ...
 
 <!-- Your contributions -->
 ## 🤝 My Contributions
 
 <!-- Showcase your recent activity, contributions, and open-source work -->
-- [Contribution 1](https://github.com/organization/repo1) - Short description.
-- [Contribution 2](https://github.com/organization/repo2) - Short description.
-...
+- [Contribution 1](https://github.com/organization/repo1) 
+- [Contribution 2](https://github.com/organization/repo2) 
 
 <!-- Footer -->
 <hr>

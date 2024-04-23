@@ -33,23 +33,28 @@ I'm a passionate developer, and I love building cool projects. Welcome to my Git
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
+![Figma logo](https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg)
+![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+
 ...
 
 <!-- Your GitHub stats -->
 ## &#x1f4c8; GitHub Stats
 
 <!-- Replace 'username' with your actual username -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=myusername&show_icons=true&hide=contribs,issues&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chitranjan-nirala&show_icons=true&hide=contribs,issues&theme=radical)
 
 <!-- Your top used languages -->
-![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&layout=compact&langs_count=8&theme=radical)
+![Your top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chitranjan-nirala&layout=compact&langs_count=8&theme=radical)
 
 <!-- Your projects -->
 ## 🚀 My Projects
 
 <!-- Showcase your projects here -->
-- [Project 1](https://github.com/myusername/project1) - Short project description.
-- [Project 2](https://github.com/myusername/project2) - Short project description.
+- [Project 1]() - Short project description.
+- [Project 2]() - Short project description.
 ...
 
 <!-- Your contributions -->
@@ -58,14 +63,6 @@ I'm a passionate developer, and I love building cool projects. Welcome to my Git
 <!-- Showcase your recent activity, contributions, and open-source work -->
 - [Contribution 1](https://github.com/organization/repo1) - Short description.
 - [Contribution 2](https://github.com/organization/repo2) - Short description.
-...
-
-<!-- Your blog posts -->
-## 📝 My Latest Blog Posts
-
-<!-- If you have a blog, you can display your latest blog posts here -->
-- [Blog Post 1](https://yourblog.com/post1) - Short description.
-- [Blog Post 2](https://yourblog.com/post2) - Short description.
 ...
 
 <!-- Footer -->

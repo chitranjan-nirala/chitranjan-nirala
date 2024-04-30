@@ -38,6 +38,10 @@ Here are some of the technologies and tools I work with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="80">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" width="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="80">
+    <svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="40" font-family="Arial" font-size="70" fill="black">C++</text>
+</svg>
+
 </div>
 
 ...

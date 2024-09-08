@@ -32,7 +32,7 @@ Here are some of the technologies and tools I work with:
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="100" height="100">
-     <img src = https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="100" height="100">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="80">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="80">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" width="100">
